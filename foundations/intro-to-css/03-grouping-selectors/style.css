@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.og-click,
+.secondary-click {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.og-click {
+    background-color: black;
+    color: white;
+}
+
+.secondary-click {
+    background-color: yellow;
+}
